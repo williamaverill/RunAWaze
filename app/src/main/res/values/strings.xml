@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RunAWaze</string>
+    <string name="title_activity_maps">RunAWaze</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="contact_list">Contact List</string>
+    <string name="report">Report</string>
+    <string name="directions">Directions</string>
+    <string name="bathroom_primary_drawer_item">Bathrooms</string>
+    <string name="water_fountain_primary_drawer_item">Water Fountains</string>
+    <string name="none_primary_drawer_item">None</string>
+    <string name="obstruction_primary_drawer_item">Report Obstruction To Trail</string>
+    <string name="location_edit_text_hint">Enter Location Description</string>
+    <string name="description_edit_text_hint">Enter Problem Description</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact_list">ContactListActivity</string>
+    <string name="title_activity_contact_map">Contacts Map</string>
+    <string name="title_activity_contact_settings">Settings</string>
+    <string name="ContactListButton">Contact List Icon</string>
+    <string name="toggle_button">OFF</string>
+    <string name="save">Save</string>
+    <string name="textContact">Contact:</string>
+    <string name="address">Address:</string>
+    <string name="homephone">Home Phone:</string>
+    <string name="cellphone">Cell Phone:</string>
+    <string name="email">E-Mail Address:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="change">Change</string>
+
+    <string name="race_type">Race Type:</string>
+    <string-array name="race_type_array">
+        <item>Marathon</item>
+        <item>Half Marathon</item>
+        <item>Ten Miler</item>
+        <item>10K</item>
+    </string-array>
+</resources>
